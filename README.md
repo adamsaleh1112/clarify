@@ -1,4 +1,4 @@
-# Clarify Swift
+# Clarify 📖
 
 A SwiftUI-based iOS app for reading and annotating articles with advanced text processing features.
 
