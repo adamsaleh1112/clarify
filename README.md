@@ -1,8 +1,8 @@
-# Clarify 📖
+## Clarify 📖
 
 A SwiftUI-based iOS app for reading and annotating articles with advanced text processing features.
 
-## Features
+### Features
 
 - 📱 Native SwiftUI interface optimized for iPhone and iPad
 - 📖 Advanced reading features (Center Stage, Tunnel Vision, Bionic Reading)
